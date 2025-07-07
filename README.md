@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehmaam99" alt="mehmaam99" /></a> </p>
 
-- 🔭 I’m currently working on **Churn Analysis**
+- 🔭 I’m currently working on **ETL pipelines**
 
-- 🌱 I’m currently learning **Deep learning, AWS.**
+- 🌱 I’m currently learning **Spark and SQL.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mehmaam99](https://github.com/Mehmaam99)
 
-- 💬 Ask me about **Python, Machine Learning & Cloud Computing.**
+- 💬 Ask me about **Python, Data Engineering & Cloud Computing.**
 
 - 📫 How to reach me **muhammadmehmaam@gmail.com**
 
