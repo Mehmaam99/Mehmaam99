@@ -74,7 +74,7 @@
   <a href="https://www.linkedin.com/in/muhammad-mehmam" target="_blank">
     <img src="https://img.shields.io/badge/-Muhammad%20Mehmaam-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="mailto:syed.mehmaam@gmail.com">
+  <a href="mailto:muhammadmehmaam@gmail.com">
     <img src="https://img.shields.io/badge/-syed.mehmaam@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
 </p>
