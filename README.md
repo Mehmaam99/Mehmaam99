@@ -1,6 +1,6 @@
 <!-- Profile README for GitHub: Mehmaam99 -->
 
-<h1 align="center">👋 Hi, I'm Syed Muhammad Mehmaam</h1>
+<h1 align="center">👋 Hi, I'm Syed Muhammad Mehmam</h1>
 <h3 align="center">🚀 Data Engineer | Azure | Databricks | Synapse | SQL | PySpark</h3>
 
 <p align="center">
