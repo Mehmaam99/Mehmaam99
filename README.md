@@ -1,7 +1,7 @@
 <!-- Profile README for GitHub: Mehmaam99 -->
 
 <h1 align="center">👋 Hi, I'm Syed Muhammad Mehmam</h1>
-<h3 align="center">🚀 Data Engineer | Azure | Databricks | Synapse | SQL | PySpark</h3>
+<h3 align="center">🚀 Gen AI Engineer | LLMs | RAG | Chatbots | FastAPI | Python</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-mehmam" target="_blank">
@@ -16,27 +16,37 @@
 ---
 
 ### 🧠 About Me
-💼 **Data Engineer passionate about designing scalable data solutions in Azure**  
-🎯 Building **end-to-end ETL pipelines, data warehouses, and analytics solutions**  
-☁️ Skilled in **Azure Data Factory, Databricks, Synapse Analytics, and SQL Server**  
-🧩 Practitioner of **Medallion architecture (Bronze / Silver / Gold)** and **data modeling**  
-📊 Always exploring **performance tuning, orchestration, and cloud optimization**  
+💼 **Gen AI Engineer focused on building production-grade AI systems**  
+🤖 Specialized in **LLMs, RAG pipelines, AI chatbots, and intelligent assistants**  
+🧠 Designing **knowledge-grounded systems using vector databases (Chroma, FAISS)**  
+⚙️ Building **API-first AI products with FastAPI & Python**  
+🚀 Founder mindset — working on **OrbitThink**, an AI-first digital solutions startup  
 
 ---
 
 ### ⚙️ Tech Stack
 
-#### 🏗️ Data Engineering & Cloud
-- **Azure Data Factory** | **Databricks** | **Azure Synapse Analytics**
-- **Azure Data Lake Storage** | **Power BI** | **SQL Server**
+#### 🤖 Generative AI & LLMs
+- **LLMs**: LLaMA, GPT-style models, Groq inference
+- **RAG**: ChromaDB, Embeddings, Chunking, Similarity Search
+- **Prompt Engineering** | **System Prompt Design**
+- **AI Chatbots** | **Knowledge Assistants**
 
-#### 💻 Programming & Processing
-- **Python**, **PySpark**, **T-SQL**, **Pandas**
+#### 🧠 Backend & APIs
+- **Python**, **FastAPI**
+- **REST APIs**, **Async APIs**
+- **Authentication**, **Rate Limiting**
 
-#### 🧩 Architecture & Concepts
-- **Medallion Architecture** | **ETL/ELT Pipelines**
-- **Data Warehousing** | **Dimensional Modeling**
-- **Data Migration** | **Orchestration**
+#### 🧩 Data & ML Foundations
+- **Python**, **Pandas**, **NumPy**
+- **ML Pipelines**, **Inference Optimization**
+- **Vector Databases** | **Embedding Strategies**
+
+#### ☁️ Deployment & DevOps
+- **Docker**
+- **Hugging Face Spaces**
+- **GitHub Actions (CI/CD)**
+- **Cloud-ready AI deployments**
 
 ---
 
@@ -44,11 +54,11 @@
 
 | 📂 Project | ⚡ Description |
 |------------|----------------|
-| [**Azure Data Engineering Project**](https://github.com/Mehmaam99/Azure-Data-Engineering-Project) | Real-world end-to-end Azure pipeline using ADF, Databricks, and Synapse for analytics |
-| [**Azure Data Migration Pipeline**](https://github.com/Mehmaam99/Azure-Data-Migration-Pipeline) | Automated migration from on-prem SQL Server to Azure Synapse |
-| [**SQL Data Warehouse Project**](https://github.com/Mehmaam99/sql-data-warehouse-project) | Complete Data Warehouse with Bronze-Silver-Gold layers and Power BI integration |
-| [**Blood Pressure Analyzer**](https://github.com/Mehmaam99/Blood-Pressure-Analyzer) | ML-powered health data analysis using Python |
-| [**Data Engineer Handbook**](https://github.com/Mehmaam99/data-engineer-handbook) | Curated knowledge and best practices for Data Engineers |
+| [**OrbitThink AI Chatbot**](https://github.com/Mehmaam99) | Production-ready GenAI chatbot using RAG, FastAPI, ChromaDB, and Groq |
+| [**RAG Knowledge Assistant**](https://github.com/Mehmaam99) | Context-aware AI assistant grounded on custom knowledge base |
+| [**AI Chat Widget**](https://github.com/Mehmaam99) | Plug-and-play JavaScript chatbot widget for websites |
+| [**Blood Pressure Analyzer**](https://github.com/Mehmaam99/Blood-Pressure-Analyzer) | ML-powered health analytics using Python |
+| [**AI Engineer Handbook**](https://github.com/Mehmaam99) | Notes, patterns, and best practices for Gen AI Engineers |
 
 ---
 
@@ -62,10 +72,11 @@
 ---
 
 ### 🎯 Current Focus
-- Building **streaming data pipelines** with Azure Event Hubs and Databricks  
-- Exploring **data observability and monitoring** frameworks  
-- Creating **production-grade reference projects** for Data Engineers  
-- Contributing to **open-source data engineering projects**
+- Building **production-grade RAG systems**
+- Scaling **AI chatbots for real businesses**
+- Improving **retrieval accuracy & hallucination control**
+- Deploying **AI products on Hugging Face & cloud**
+- Growing **OrbitThink** as an AI-first company
 
 ---
 
@@ -81,4 +92,4 @@
 
 ---
 
-⭐ **"Turning raw data into powerful insights through scalable engineering."**  
+⭐ **"Building intelligent systems that think, retrieve, and reason."**
