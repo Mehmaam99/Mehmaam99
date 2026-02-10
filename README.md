@@ -62,11 +62,12 @@
 
 ---
 
-## 📈 GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 
-![Mehmaam99 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mehmaam99&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmaam99&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehmaam99&show_icons=true&theme=tokyonight&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmaam99&layout=compact&theme=tokyonight" height="165" />
+</p>
 
 ---
 
