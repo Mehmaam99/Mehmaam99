@@ -62,14 +62,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mehmaam99&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmaam99&layout=compact&theme=tokyonight)
-
-
----
 
 ### 🎯 Current Focus
 - Building **production-grade RAG systems**
