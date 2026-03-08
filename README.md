@@ -1,14 +1,16 @@
 <!-- Profile README for GitHub: Mehmaam99 -->
-
 <h1 align="center">👋 Hi, I'm Syed Muhammad Mehmam</h1>
-<h3 align="center">🚀 Gen AI Engineer | LLMs | RAG | Chatbots | FastAPI | Python</h3>
+<h3 align="center">🚀 AI Engineer | LLMs · RAG · LangGraph · Computer Vision · FastAPI</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-mehmam" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:syed.mehmaam@gmail.com">
+  <a href="mailto:muhammadmehmaam@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://syedmuhammadmehmam.site" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Mehmaam99&label=Profile%20Views&color=blue&style=flat-square" alt="views" />
 </p>
@@ -16,72 +18,74 @@
 ---
 
 ### 🧠 About Me
-💼 **Gen AI Engineer focused on building production-grade AI systems**  
-🤖 Specialized in **LLMs, RAG pipelines, AI chatbots, and intelligent assistants**  
-🧠 Designing **knowledge-grounded systems using vector databases (Chroma, FAISS)**  
-⚙️ Building **API-first AI products with FastAPI & Python**  
-🚀 Founder mindset — working on **OrbitThink**, an AI-first digital solutions startup  
+
+💼 **AI Engineer with 3+ years of production experience**
+🤖 Specialized in **LLMs, RAG pipelines, LangGraph Agents, and Computer Vision**
+🧠 Built production systems processing **500+ sessions/month** for healthcare clients
+⚙️ Building **API-first AI products with FastAPI & Python**
+📍 Based in **Karachi, Pakistan** — open to remote global opportunities
+
+---
+
+### 🚀 Portfolio Projects
+
+| 📂 Project | ⚡ Description | 🎥 Demo |
+|------------|----------------|---------|
+| [**RAG Document Chatbot**](https://github.com/Mehmaam99/rag-document-chatbot) | Upload any PDF and chat with it using LangChain + ChromaDB + Groq LLM | [![Demo](https://img.shields.io/badge/Watch-Demo-red?style=flat-square&logo=youtube)](https://youtu.be/SkITBQkZz28) |
+| [**YOLO Object Detection API**](https://github.com/Mehmaam99/yolo-object-detection-api) | Real-time object detection using YOLOv8 + OpenCV + FastAPI | [![Demo](https://img.shields.io/badge/Watch-Demo-red?style=flat-square&logo=youtube)](https://youtu.be/XQrj2eV3bTA) |
+| [**LangGraph AI Agent**](https://github.com/Mehmaam99/langgraph-ai-agent) | Multi-tool AI agent with tool calling, routing and LangSmith observability | [![Demo](https://img.shields.io/badge/Watch-Demo-red?style=flat-square&logo=youtube)](https://youtu.be/ZKw46hZCG3M) |
+| [**Blood Pressure Analyzer**](https://github.com/Mehmaam99/Blood-Pressure-Analyzer) | ML-powered health analytics using Python | — |
 
 ---
 
 ### ⚙️ Tech Stack
 
 #### 🤖 Generative AI & LLMs
-- **LLMs**: LLaMA, GPT-style models, Groq inference
-- **RAG**: ChromaDB, Embeddings, Chunking, Similarity Search
-- **Prompt Engineering** | **System Prompt Design**
-- **AI Chatbots** | **Knowledge Assistants**
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-00C4CC?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+
+#### 👁️ Computer Vision
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 #### 🧠 Backend & APIs
-- **Python**, **FastAPI**
-- **REST APIs**, **Async APIs**
-- **Authentication**, **Rate Limiting**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-#### 🧩 Data & ML Foundations
-- **Python**, **Pandas**, **NumPy**
-- **ML Pipelines**, **Inference Optimization**
-- **Vector Databases** | **Embedding Strategies**
-
-#### ☁️ Deployment & DevOps
-- **Docker**
-- **Hugging Face Spaces**
-- **GitHub Actions (CI/CD)**
-- **Cloud-ready AI deployments**
+#### ☁️ Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
-
-### 🚀 Featured Projects
-
-| 📂 Project | ⚡ Description |
-|------------|----------------|
-| [**OrbitThink AI Chatbot**](https://github.com/Mehmaam99) | Production-ready GenAI chatbot using RAG, FastAPI, ChromaDB, and Groq |
-| [**RAG Knowledge Assistant**](https://github.com/Mehmaam99) | Context-aware AI assistant grounded on custom knowledge base |
-| [**AI Chat Widget**](https://github.com/Mehmaam99) | Plug-and-play JavaScript chatbot widget for websites |
-| [**Blood Pressure Analyzer**](https://github.com/Mehmaam99/Blood-Pressure-Analyzer) | ML-powered health analytics using Python |
-| [**AI Engineer Handbook**](https://github.com/Mehmaam99) | Notes, patterns, and best practices for Gen AI Engineers |
-
----
-
 
 ### 🎯 Current Focus
 - Building **production-grade RAG systems**
-- Scaling **AI chatbots for real businesses**
-- Improving **retrieval accuracy & hallucination control**
-- Deploying **AI products on Hugging Face & cloud**
-- Growing **OrbitThink** as an AI-first company
+- Scaling **LangGraph AI agents** for real businesses
+- Improving **retrieval accuracy and hallucination control**
+- Open to **remote AI Engineer roles** globally
 
 ---
 
 ### 📫 Connect With Me
+
 <p>
   <a href="https://www.linkedin.com/in/muhammad-mehmam" target="_blank">
-    <img src="https://img.shields.io/badge/-Muhammad%20Mehmaam-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Muhammad%20Mehmam-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
   <a href="mailto:muhammadmehmaam@gmail.com">
     <img src="https://img.shields.io/badge/-muhammadmehmaam@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://syedmuhammadmehmam.site" target="_blank">
+    <img src="https://img.shields.io/badge/-syedmuhammadmehmam.site-000000?style=flat-square&logo=firefox&logoColor=white" />
   </a>
 </p>
 
 ---
 
-⭐ **"Building intelligent systems that think, retrieve, and reason."**
+⭐ *"Building intelligent systems that think, retrieve, and reason."*
