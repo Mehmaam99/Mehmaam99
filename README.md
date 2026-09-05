@@ -19,7 +19,7 @@
 
 ### 🧠 About Me
 
-💼 **AI Engineer with 3+ years of production experience**
+💼 **AI Engineer with 4+ years of production experience**
 🤖 Specialized in **LLMs, RAG pipelines, LangGraph Agents, and Computer Vision**
 🧠 Built production systems processing **500+ sessions/month** for healthcare clients
 ⚙️ Building **API-first AI products with FastAPI & Python**
@@ -34,7 +34,9 @@
 | [**RAG Document Chatbot**](https://github.com/Mehmaam99/rag-document-chatbot) | Upload any PDF and chat with it using LangChain + ChromaDB + Groq LLM | [![Demo](https://img.shields.io/badge/Watch-Demo-red?style=flat-square&logo=youtube)](https://youtu.be/SkITBQkZz28) |
 | [**YOLO Object Detection API**](https://github.com/Mehmaam99/yolo-object-detection-api) | Real-time object detection using YOLOv8 + OpenCV + FastAPI | [![Demo](https://img.shields.io/badge/Watch-Demo-red?style=flat-square&logo=youtube)](https://youtu.be/XQrj2eV3bTA) |
 | [**LangGraph AI Agent**](https://github.com/Mehmaam99/langgraph-ai-agent) | Multi-tool AI agent with tool calling, routing and LangSmith observability | [![Demo](https://img.shields.io/badge/Watch-Demo-red?style=flat-square&logo=youtube)](https://youtu.be/ZKw46hZCG3M) |
-| [**Blood Pressure Analyzer**](https://github.com/Mehmaam99/Blood-Pressure-Analyzer) | ML-powered health analytics using Python | — |
+| [**Hospital Data Engineering Pipeline**](https://github.com/Mehmaam99/hospital-data-engineering-pipeline) | ETL pipeline monitoring room occupancy, departmental revenue, and data quality for hospital systems | — |
+| [**WhatsApp E-commerce Chatbot**](https://github.com/Mehmaam99/whatsapp-chatbot-ecommerce) | LLM-powered WhatsApp automation for customer intent classification and response handling | — |
+| [**SQL Data Warehouse Project**](https://github.com/Mehmaam99/sql-data-warehouse-project) | Modern data warehouse built with SQL Server — ETL, data modeling, and analytics | — |
 
 ---
 
