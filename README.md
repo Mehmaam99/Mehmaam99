@@ -12,7 +12,6 @@
   <a href="https://syedmuhammadmehmam.site" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Mehmaam99&label=Profile%20Views&color=blue&style=flat-square" alt="views" />
 </p>
 
 ---
